@@ -2,7 +2,7 @@
 
 [![NPM version][npm-image]][npm-url] [![Travis-CI Status][travis-image]][travis-url] [![Appveyor Status][appveyor-image]][appveyor-url] [![Daviddm Status][daviddm-image]][daviddm-url]
 
-> > Check if your code is running on NW.js on Mac.
+> Check if your code is running on NW.js on Mac.
 
 
 ## Install
