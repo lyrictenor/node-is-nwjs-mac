@@ -41,11 +41,11 @@ console.log(isNwjsMac);
 MIT © [sanemat](http://sane.jp)
 
 
-[travis-url]: https://travis-ci.org/sanemat/is-nwjs-mac
-[travis-image]: https://img.shields.io/travis/sanemat/is-nwjs-mac/master.svg?style=flat-square&label=travis
-[appveyor-url]: https://ci.appveyor.com/project/sanemat/is-nwjs-mac/branch/master
-[appveyor-image]: https://img.shields.io/appveyor/ci/sanemat/is-nwjs-mac/master.svg?style=flat-square&label=appveyor
+[travis-url]: https://travis-ci.org/lyrictenor/node-is-nwjs-mac
+[travis-image]: https://img.shields.io/travis/lyrictenor/node-is-nwjs-mac/master.svg?style=flat-square&label=travis
+[appveyor-url]: https://ci.appveyor.com/project/sanemat/node-is-nwjs-mac/branch/master
+[appveyor-image]: https://img.shields.io/appveyor/ci/sanemat/node-is-nwjs-mac/master.svg?style=flat-square&label=appveyor
 [npm-url]: https://npmjs.org/package/is-nwjs-mac
 [npm-image]: https://img.shields.io/npm/v/is-nwjs-mac.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/sanemat/is-nwjs-mac
-[daviddm-image]: https://img.shields.io/david/sanemat/is-nwjs-mac.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/lyrictenor/node-is-nwjs
+[daviddm-image]: https://img.shields.io/david/lyrictenor/node-is-nwjs.svg?style=flat-square
