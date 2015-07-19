@@ -2,7 +2,7 @@
 
 [![NPM version][npm-image]][npm-url] [![Travis-CI Status][travis-image]][travis-url] [![Appveyor Status][appveyor-image]][appveyor-url] [![Daviddm Status][daviddm-image]][daviddm-url]
 
-> My spectacular module
+> > Check if your code is running on NW.js on Mac.
 
 
 ## Install
@@ -17,31 +17,18 @@ $ npm install --save is-nwjs-mac
 ```js
 var isNwjsMac = require('is-nwjs-mac');
 
-isNwjsMac('unicorns');
-//=> unicorns & rainbows
+// on your browser
+console.log(isNwjsMac);
+//=> false
+
+// on NW.js on Windows
+console.log(isNwjsMac);
+//=> false
+
+// on NW.js on Mac
+console.log(isNwjsMac);
+//=> true
 ```
-
-
-
-## API
-
-### isNwjsMac(input, [options])
-
-#### input
-
-*Required*  
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`  
-Default: `false`
-
-Lorem ipsum.
 
 
 ## Changelog
