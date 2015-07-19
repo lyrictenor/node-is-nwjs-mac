@@ -31,6 +31,11 @@ console.log(isNwjsMac);
 ```
 
 
+## Related
+
+* [is-nwjs](https://github.com/lyrictenor/node-is-nwjs)
+
+
 ## Changelog
 
 [changelog.md](./changelog.md).
